@@ -1,0 +1,10 @@
+﻿  源.cpp
+C:\Users\D\source\repos\bigsnake\bigsnake\源.cpp(111,50): error C2061: 语法错误: 标识符“fruits”
+C:\Users\D\source\repos\bigsnake\bigsnake\源.cpp(143,6): error C2065: “f1”: 未声明的标识符
+C:\Users\D\source\repos\bigsnake\bigsnake\源.cpp(155,21): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\D\source\repos\bigsnake\bigsnake\源.cpp(164,22): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\D\source\repos\bigsnake\bigsnake\源.cpp(179,21): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\D\source\repos\bigsnake\bigsnake\源.cpp(180,22): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\D\source\repos\bigsnake\bigsnake\源.cpp(234,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+C:\Users\D\source\repos\bigsnake\bigsnake\源.cpp(251,28): error C2660: “snake::movesnakehead”: 函数不接受 2 个参数
+C:\Users\D\source\repos\bigsnake\bigsnake\源.cpp(111,7): message : 参见“snake::movesnakehead”的声明
